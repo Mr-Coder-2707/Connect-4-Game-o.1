@@ -1,4 +1,14 @@
 * {
+  -webkit-tap-highlight-color: transparent;
+  tap-highlight-color: transparent;
+}
+
+a, button, input, textarea, select, label, [onclick] {
+  -webkit-tap-highlight-color: transparent;
+  tap-highlight-color: transparent;
+}
+
+* {
   box-sizing: border-box;
 }
 
